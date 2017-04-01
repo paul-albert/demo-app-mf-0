@@ -4,6 +4,8 @@
 
 (here we are assumed using of Linux)
 
+_(environment: Linux / Nginx / MySQL 5.x / PHP 5.6 / Yii 2)_
+
 ### Database (MySQL)
 
 * `mysql -u root -p`
@@ -12,11 +14,11 @@
 
 * `mysql -u demo-app-mf-0 -p` and make commands from:
 
-    `data/mysql/schema.sql`
+    [Schema](data/mysql/schema.sql)
     
-    `data/mysql/triggers.sql`
+    [Triggers](data/mysql/triggers.sql)
     
-    `data/mysql/data.sql`
+    [Data](data/mysql/data.sql)
 
 ### Web-server (Nginx)
 
