@@ -2,8 +2,6 @@
 
 ## Prepare steps:
 
-(here we are assumed using of Linux)
-
 _(environment: Linux / Nginx / MySQL 5.x / PHP 5.6 / Yii 2)_
 
 ### Database (MySQL)
