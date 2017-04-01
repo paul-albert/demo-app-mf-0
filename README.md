@@ -22,7 +22,7 @@ _(environment: Linux / Nginx / MySQL 5.x / PHP 5.6 / Yii 2)_
 
 * Nginx's configuration sample - see in `configuration/nginx.conf`
 
-### PHP application
+### PHP application (Yii)
 
 * Check configuration of application in `basic/config/*.php`
 
